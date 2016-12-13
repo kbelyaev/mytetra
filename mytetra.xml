@@ -14,5 +14,10 @@
     <record id="1481119308ysdvt169l8" name="Test note 2" author="" url="" tags="" ctime="20161207170148" dir="14811193083mfi24dihx" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="" id="14816184229evy8sts7g" name="Linux">
+   <recordtable>
+    <record id="1481618469ib5awgt3ot" name="Status of ethernet port" author="" url="" tags="" ctime="20161213114109" dir="1481618469cd0vikvrzh" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
